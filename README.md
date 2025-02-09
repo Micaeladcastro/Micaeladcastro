@@ -7,7 +7,7 @@ Olá,sou Micaela😊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Micaeladcastro&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micaeladcastro&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ### Tecnologias que eu uso no dia a dia 
 <div style="display: incline_block"><br/>
