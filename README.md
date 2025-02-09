@@ -15,8 +15,12 @@ Olá,sou Micaela😊
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="js" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center" alt="react" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+<img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="jogo" src= "https://github.com/user-attachments/assets/c9d2299d-7b80-4756-9548-43f464042258 "/ width=170px
+> 
+
 <br>
 “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
 Bill Gates
 </div>
+
