@@ -15,7 +15,7 @@
 
 **`Desenvolvedora Web e Analista de dados`**
 
-Altuamente, sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da tecnologia. Acredito no poder do código para transformar ideias em realidade e estou focado em construir uma carreira onde eu possa desenvolver projetos que realmente façam a diferença.
+Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonada pela tecnologia. Acredito no poder do código para transformar ideias em realidade e estou focado em construir uma carreira onde eu possa desenvolver projetos que realmente façam a diferença.
 
 <p align="left"> 
 
@@ -31,38 +31,52 @@ Altuamente, sou estudante de Análise e Desenvolvimento de Sistemas e um entusia
 
   <img align="left" width="30px" style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+ <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
 <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
 <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="30px" style="padding-right: 10px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img  align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+              
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+                   
+          
+          
+
  <br>
  <br>
   
   ### 📊Estatiticas:
   
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Micaeladcastro&show_icons=true&theme=vue" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaeladcastro&layout=donut" width="306"/>
-  
-</div>
-<div align="center">
-  <a href="https://github.com/Micaeladcastro/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micaeladcastro&bg_color=000000&color=39D353&line=FFFFFF&point=0096D6&area=true&hide_border=true" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Micaeladcastro&show_icons=true&theme=radical&count_private=true" alt="Estatísticas da Micaela" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaeladcastro&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micaeladcastro&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
+
  
  <h1 align="center" >“Não é a linguagem de programação que define o programador, mas sim sua lógica.” – David Ribeiro Guilherme 
-
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+  
   </h1>
+ 
+ 
+
+           
 
 
 
  
  
+
 
            
