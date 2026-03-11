@@ -2,6 +2,8 @@
 
 <p align="center">🌸 Seja bem-vindo ao meu GitHub 🌸</p>
 
+<img align="right" width="200px" src="gif.gif" alt="">
+
 * 🧘 Construindo aplicativos web que ajudam as pessoas todos os dias.
 
 * 💻 Focado em aprender e melhorar
@@ -11,7 +13,7 @@
 * 👥 Aberto à colaboração
 
 * 🔧 Oferecendo serviços para desenvolver webSite 
-<img align="right" width="200px" src="gif.gif" alt="">
+
 
 **`Desenvolvedora Web e Analista de dados`**
 
@@ -80,6 +82,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 
            
+
 
 
 
