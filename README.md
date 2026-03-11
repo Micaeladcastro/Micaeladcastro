@@ -11,7 +11,7 @@
 * 👥 Aberto à colaboração
 
 * 🔧 Oferecendo serviços para desenvolver webSite 
-<img align="right" width="200px" src="https://cdn.goconqr.com/uploads/slide_property/image/634454/desktop_cb63bc3f-3347-4720-a7d1-478063b4ecd6.gif" alt="">
+<img align="right" width="200px" src="gif.gif" alt="">
 
 **`Desenvolvedora Web e Analista de dados`**
 
@@ -80,6 +80,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 
            
+
 
 
 
