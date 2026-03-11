@@ -12,7 +12,7 @@
 
 * 🔧 Oferecendo serviços para desenvolver webSite 
  <p align="right">
-  <img src="gif.gif" alt="logDIO">
+  <img src="img/gif.gif" width="250">
 </p>
 
 **`Desenvolvedora Web e Analista de dados`**
@@ -82,4 +82,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 
            
+
 
