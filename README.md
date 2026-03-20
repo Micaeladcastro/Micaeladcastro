@@ -67,9 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 </p>
 
  
- <h1 align="center" >“Não é a linguagem de programação que define o programador, mas sim sua lógica.” – David Ribeiro Guilherme 
-  
-  </h1>
+
  
  
 
