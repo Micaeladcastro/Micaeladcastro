@@ -15,9 +15,7 @@
 * 🔧 Oferecendo serviços para desenvolver webSite 
 
 
-**`Desenvolvedora Web e Analista de dados`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonada pela tecnologia. Acredito no poder do código para transformar ideias em realidade e estou focado em construir uma carreira onde eu possa desenvolver projetos que realmente façam a diferença.
 
 <p align="left"> 
 
@@ -62,9 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaeladcastro&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micaeladcastro&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
+
 
  
 
