@@ -1,64 +1,79 @@
-<h1 align="center"> 😎 Hi everyone, eu sou Micaela</h1>
+<h1 align="center">Hi there, I'm Micaela 👋</h1>
 
-<p align="center">🌸 Seja bem-vindo ao meu GitHub 🌸</p>
+<p align="center">
+  <em>Systems Analyst · Data Analysis · Web Development</em>
+</p>
 
-<img align="right" width="200px" src="gif.gif" alt="">
-
-* 🧘 Construindo aplicativos web que ajudam as pessoas todos os dias.
-
-* 💻 Focado em aprender e melhorar
-
-* 🛠️ Gosto de trabalhar em uma variedade de projetos
-
-* 👥 Aberto à colaboração
-
-* 🔧 Oferecendo serviços para desenvolver webSite 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Analysis+%26+Web+Developer;Always+learning+new+things;Open+to+collaboration!" alt="Typing SVG" />
+</p>
 
 
 
+---
 
-<p align="left"> 
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/micaeladasilvacastro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mailto:micaeladasilvacastro1@gmail.com">micaeladasilvacastro1@gmail.com</a>)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://ptb.discord.com/channels/@me)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaeladcastro-analistadesistemas/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+### 📬 Contact
+
+<p>
+  <a href="mailto:micaeladasilvacastro1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/micaeladcastro-analistadesistemas/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ptb.discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
-### 🚇Linguagens e Tecnologias:
 
-  <img align="left" width="30px" style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
- <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right: 10px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img  align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-              
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-                   
-          
-          
+### 🛠️ Languages & Technologies
 
- <br>
- <br>
-  
-  ### 📊Estatiticas:
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Micaeladcastro&show_icons=true&theme=radical&count_private=true" alt="Estatísticas da Micaela" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaeladcastro&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
+#### 📊 Data Analysis
+<p>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"/>
 </p>
+
+#### 🌐 Web Development
+<p>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
+</p>
+
+#### ⚙️ Tools & Platforms
+<p>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma"/>
+  <img width="36px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Micaeladcastro&show_icons=true&theme=radical&count_private=true" alt="Micaela's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaeladcastro&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micaeladcastro&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 
 
